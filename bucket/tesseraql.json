@@ -1,10 +1,10 @@
 {
-    "version": "0.19.0",
+    "version": "0.19.1",
     "description": "CLI for TesseraQL, the SQL-first hypermedia application framework (bundled Java runtime)",
     "homepage": "https://ingcreators.com/tesseraql",
     "license": "Apache-2.0",
-    "url": "https://github.com/ingcreators/tesseraql/releases/download/v0.19.0/tesseraql-0.19.0-windows-x86_64.zip",
-    "hash": "8c06dab6ab573553cd945a0673250e1e2a00bd585e9ec67ae00e1cf74d779e6c",
+    "url": "https://github.com/ingcreators/tesseraql/releases/download/v0.19.1/tesseraql-0.19.1-windows-x86_64.zip",
+    "hash": "ff61748ff2b6ca92664a3740803c5a00119dd909bc15dfd33bafd03ba25b4962",
     "extract_dir": "tesseraql",
     "bin": "tesseraql.exe",
     "checkver": {
